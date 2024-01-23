@@ -20,7 +20,7 @@ const projectsData = [
     description: "Project for all inclusive dog services, created a custom theme with Wordpress, bootstrap 5, JQuery for a client.",
     image: "/images/projects/doggie.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://doggie.sk",
   },
   {
@@ -29,7 +29,7 @@ const projectsData = [
     description: "Created for custom wordpress theme with Wordpress, Bootstrap 5, JQuery for a client in Slovakia.",
     image: "/images/projects/bezagenta.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://bezagenta.online/",
   },
   {
@@ -38,8 +38,8 @@ const projectsData = [
     description: "Project created for a construction company in Slovakia. Created custom theme with Wordpress, Bootstrap 5, JQuery/Owl-carousel. Project is not yet live.",
     image: "/images/projects/bti.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
-    previewUrl: "/#projects",
+    gitUrl: "",
+    previewUrl: "",
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ const projectsData = [
     description: "Project created for a client in Slovakia.",
     image: "/images/projects/drx.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://drxracing.eu/",
   },
   {
@@ -56,7 +56,7 @@ const projectsData = [
     description: "Project created for an insurance company in Slovakia, custom theme is created with Wordpress, Bootstrap 5, Jquery, Owl-carousel. Calculation is completed in Angular.",
     image: "/images/projects/respect.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://respect-direct.sk/",
   },
   {
@@ -65,7 +65,7 @@ const projectsData = [
     description: "Created frontend for this website along with some other themes and functionalities for this platform.",
     image: "/images/projects/kupisa.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://kupisa.rs/",
   },
   {
@@ -74,7 +74,7 @@ const projectsData = [
     description: "Project for a small business owner in Loznica, Serbia. He wanted to display his services online so I created a simple website using HTML and TailwindCSS.",
     image: "/images/projects/Tomin.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://autocentartomin.com/",
   },
   {
@@ -83,7 +83,7 @@ const projectsData = [
     description: "Website for a small vet office in Loznica, Serbia. Client needed to show his online presence before other veterinarians start it in this small city. Website is created with Wordpress.",
     image: "/images/projects/drvlado.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://drvlado.com/",
   },
   {
@@ -92,7 +92,7 @@ const projectsData = [
     description: "Small dog grooming business in Serbia. Website is created with HTML and Tailwindcss",
     image: "/images/projects/sapa.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://zelenasapa.com/",
   },
   {
@@ -101,7 +101,7 @@ const projectsData = [
     description: "This is the website of my local web development agency here in Serbia.",
     image: "/images/projects/digitalo-web.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://digitalo.me/",
   },
   {
@@ -110,7 +110,7 @@ const projectsData = [
     description: "Project that I created as a business registry for Loznica. Goal of this project is to allow people to find what they looking for much easier. Because business owners in Loznica barely have any digital presence.",
     image: "/images/projects/biznislo.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://biznislo.com/",
   },
   {
@@ -119,8 +119,8 @@ const projectsData = [
     description: "Practice project to get to know myself with React Native. I don't have a live project preview for it at this moment.",
     image: "/images/projects/art-marketplace.png",
     tag: ["All", "Mobile"],
-    gitUrl: "/#projects",
-    previewUrl: "/#projects",
+    gitUrl: "",
+    previewUrl: "",
   },
   {
     id: 14,
@@ -128,8 +128,8 @@ const projectsData = [
     description: "Recreation of custom design in ReactJS and CSS. No demo preview for this project I didn't decide to host it anywhere.",
     image: "/images/projects/practice1.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
-    previewUrl: "/#projects",
+    gitUrl: "",
+    previewUrl: "",
   },
   {
     id: 15,
@@ -137,8 +137,8 @@ const projectsData = [
     description: "Recreation of WP Restaurant Theme in ReactJS and CSS. No demo preview for this project I didn't decide to host it anywhere.",
     image: "/images/projects/practice2.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
-    previewUrl: "/#projects",
+    gitUrl: "",
+    previewUrl: "",
   },
   {
     id: 16,
@@ -146,7 +146,7 @@ const projectsData = [
     description: "Project for a small business in Serbia. Website for this baby nursery was created in HTML and CSS. Also added 2 different themes to it Dark/light",
     image: "/images/projects/radumilo.png",
     tag: ["All", "Web"],
-    gitUrl: "/#projects",
+    gitUrl: "",
     previewUrl: "https://rasadnikradumilo.com/",
   },
 ];
