@@ -30,7 +30,7 @@ const ContactSection = () => {
           <Link href="https://github.com/Flashmaxi">
             <Image src={GithubIcon} alt="Github Icon" height={36} width={36}/>
           </Link>
-          <Link href="https://twitter.com/dev21M">
+          <Link href="https://twitter.com/doe21M">
             <Image src={TwitterIcon} alt="Twitter Icon" height={36} width={36} />
           </Link>
         </div>
