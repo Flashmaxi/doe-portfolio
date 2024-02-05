@@ -89,7 +89,7 @@ const projectsData = [
   {
     id: 10,
     title: "Zelena sapa",
-    description: "Small dog grooming business in Serbia. Website is created with HTML and Tailwindcss",
+    description: "Small dog grooming business in Serbia. Website is created with ReactJS and Tailwindcss",
     image: "/images/projects/sapa.png",
     tag: ["All", "Web"],
     gitUrl: "",
